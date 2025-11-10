@@ -91,7 +91,7 @@ After filtering, activity became more focused on key hotspots — showing that i
 
 ---
 
-## 🛠️ Tools and Libraries
+## Tools and Libraries
 
 - Python  
 - pandas, numpy, json, math  
