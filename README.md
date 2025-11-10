@@ -119,7 +119,6 @@ The coursework specification defined four core tasks:
 3. Geo-localisation with filtered data  
 4. Open-ended discussion of data and methodological issues  
 
-If the coursework brief cannot be shared publicly, simply note:  
 > The official specification is omitted for copyright reasons but described above.
 
 ---
